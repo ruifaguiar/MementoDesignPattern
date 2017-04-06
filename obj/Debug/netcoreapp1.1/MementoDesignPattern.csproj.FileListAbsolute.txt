@@ -1,0 +1,8 @@
+C:\Projects\MementoDesignPattern\bin\Debug\netcoreapp1.1\MementoDesignPattern.deps.json
+C:\Projects\MementoDesignPattern\bin\Debug\netcoreapp1.1\MementoDesignPattern.runtimeconfig.json
+C:\Projects\MementoDesignPattern\bin\Debug\netcoreapp1.1\MementoDesignPattern.runtimeconfig.dev.json
+C:\Projects\MementoDesignPattern\bin\Debug\netcoreapp1.1\MementoDesignPattern.dll
+C:\Projects\MementoDesignPattern\bin\Debug\netcoreapp1.1\MementoDesignPattern.pdb
+C:\Projects\MementoDesignPattern\obj\Debug\netcoreapp1.1\MementoDesignPattern.AssemblyInfo.cs
+C:\Projects\MementoDesignPattern\obj\Debug\netcoreapp1.1\MementoDesignPattern.dll
+C:\Projects\MementoDesignPattern\obj\Debug\netcoreapp1.1\MementoDesignPattern.pdb
